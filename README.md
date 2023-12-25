@@ -32,4 +32,3 @@ To run this project, you need to:
 2. Clone this repository.
 3. Open the Jupyter notebook (`Project_Machine_Learning_Sassi.ipynb`) in a Jupyter environment.
 4. Run the cells sequentially to replicate the analysis.
-# Analysis-of-Credit-Card-Clients-Dataset
